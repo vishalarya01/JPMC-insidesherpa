@@ -7,4 +7,4 @@ This repository contains the submitted patch files of the various tasks.
 https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 # Certificate Of Completion
-<img src ="
+<img src ="JP morgan_certi.png" width = "200" height = "200">
